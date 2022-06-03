@@ -2,8 +2,8 @@
 	"name" : "SpatMatrix",
 	"version" : 1,
 	"creationdate" : 3736921673,
-	"modificationdate" : 3736974140,
-	"viewrect" : [ 862.0, 100.0, 300.0, 500.0 ],
+	"modificationdate" : 3737106915,
+	"viewrect" : [ 671.0, 309.0, 300.0, 386.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -15,7 +15,7 @@
 				"local" : 1
 			}
 ,
-			"SUB.maxpat" : 			{
+			"thru.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -25,7 +25,22 @@
 				"local" : 1
 			}
 ,
+			"SUB.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
 			"Motion.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"spat5.random.poly.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"spat5.random.polyvoice.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
@@ -37,92 +52,43 @@
 ,
 			"spread_sources.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
-			}
-,
-			"spat5.monitor.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
-			}
-,
-			"spat5.dsp.mute.bypass.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
-			}
-,
-			"spat5.dsp.control.maxpat" : 			{
-				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
+				"local" : 1
 			}
 ,
 			"MIDI.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
+				"local" : 1
 			}
 ,
 			"Inputs.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
+				"toplevel" : 1
 			}
 ,
 			"granulator.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
+				"local" : 1
 			}
 ,
 			"Encoding.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
+				"local" : 1
+			}
+,
+			"spat5.monitor.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"ircamverb.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Desktop/SpatMatrix_share/SpatMatrix/_DeletedItems/patchers",
-					"projectrelativepath" : "./_DeletedItems/patchers"
-				}
-
+				"local" : 1
+			}
+,
+			"spat5.gui.control.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
