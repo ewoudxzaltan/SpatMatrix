@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 77.0, 1163.0, 969.0 ],
+		"rect" : [ 42.0, 85.0, 1163.0, 953.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -368,7 +368,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 1,
-					"patching_rect" : [ 226.767701625823975, 637.0, 24.0, 24.0 ],
+					"patching_rect" : [ 340.767701625823975, 617.0, 24.0, 24.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
 							"parameter_enum" : [ "off", "on" ],
@@ -391,7 +391,7 @@
 					"numinlets" : 4,
 					"numoutlets" : 1,
 					"outlettype" : [ "signal" ],
-					"patching_rect" : [ 210.767701625823975, 669.0, 67.0, 22.0 ],
+					"patching_rect" : [ 324.767701625823975, 666.0, 67.0, 22.0 ],
 					"text" : "vlb 0 0 100"
 				}
 
@@ -1450,6 +1450,7 @@
 , 			{
 				"box" : 				{
 					"fontsize" : 18.0,
+					"hidden" : 1,
 					"id" : "obj-27",
 					"maxclass" : "live.menu",
 					"numinlets" : 1,
@@ -3001,14 +3002,14 @@
 			}
 , 			{
 				"name" : "8inputsBp.maxpat",
-				"bootpath" : "~/Desktop/Spat5RAMA",
+				"bootpath" : "~/Documents/GitHub/SpatMatrix/SpatMatrix/tonis",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "ChannelMapper40Chan.maxpat",
-				"bootpath" : "~/Desktop/Spat5RAMA",
+				"bootpath" : "~/Documents/GitHub/SpatMatrix/SpatMatrix/tonis",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -3021,14 +3022,14 @@
 			}
 , 			{
 				"name" : "granulatorSettingsBP.maxpat",
-				"bootpath" : "~/Desktop/Spat5RAMA",
+				"bootpath" : "~/Documents/GitHub/SpatMatrix/SpatMatrix/tonis",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "mcDelay.maxpat",
-				"bootpath" : "~/Desktop/Spat5RAMA",
+				"bootpath" : "~/Documents/GitHub/SpatMatrix/SpatMatrix/tonis",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -3044,21 +3045,21 @@
 , 			{
 				"name" : "spat5.deferloadmess.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Documents/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.dsp.control.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Documents/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.dsp.mute.bypass.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Documents/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -3077,14 +3078,14 @@
 , 			{
 				"name" : "spat5.gui.control.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Documents/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.hoa.decoder.control.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Documents/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -3123,14 +3124,14 @@
 , 			{
 				"name" : "spat5.random.poly.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Documents/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "spat5.random.polyvoice.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/spat5-x64/patchers",
-				"patcherrelativepath" : "../../Documents/Max 8/Packages/spat5-x64/patchers",
+				"patcherrelativepath" : "../../../../Max 8/Packages/spat5-x64/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
@@ -3144,7 +3145,7 @@
 			}
 , 			{
 				"name" : "spatFilter.maxpat",
-				"bootpath" : "~/Desktop/Spat5RAMA",
+				"bootpath" : "~/Documents/GitHub/SpatMatrix/SpatMatrix/tonis",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -3157,7 +3158,7 @@
 			}
 , 			{
 				"name" : "vlb.maxpat",
-				"bootpath" : "~/Desktop/Spat5RAMA",
+				"bootpath" : "~/Documents/GitHub/SpatMatrix/SpatMatrix/tonis",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
