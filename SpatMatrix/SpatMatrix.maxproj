@@ -2,7 +2,7 @@
 	"name" : "SpatMatrix",
 	"version" : 1,
 	"creationdate" : 3736921673,
-	"modificationdate" : 3737106915,
+	"modificationdate" : 3737108396,
 	"viewrect" : [ 671.0, 309.0, 300.0, 386.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -22,7 +22,8 @@
 ,
 			"OUTPUT.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1
+				"local" : 1,
+				"toplevel" : 1
 			}
 ,
 			"SUB.maxpat" : 			{
@@ -89,6 +90,10 @@
 			"spat5.gui.control.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
+			}
+,
+			"RandomOutputSelect.maxpat" : 			{
+				"kind" : "patcher"
 			}
 
 		}
